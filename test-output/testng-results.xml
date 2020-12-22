@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-22T00:01:06 EET" name="Default suite" finished-at="2020-12-22T00:15:45 EET" duration-ms="879660">
+    <groups>
+    </groups>
+    <test started-at="2020-12-22T00:01:06 EET" name="Default test" finished-at="2020-12-22T00:15:45 EET" duration-ms="879660">
+      <class name="md.nineninenine.TransportFiltersTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:md.nineninenine.TransportFiltersTests@37858383]" started-at="2020-12-22T00:01:06 EET" name="setUp" finished-at="2020-12-22T00:01:08 EET" duration-ms="2107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="firstRoLangFiltersTest()[pri:0, instance:md.nineninenine.TransportFiltersTests@37858383]" started-at="2020-12-22T00:01:08 EET" name="firstRoLangFiltersTest" finished-at="2020-12-22T00:03:38 EET" duration-ms="150573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstRoLangFiltersTest -->
+        <test-method signature="firstRuLangFiltersTest()[pri:0, instance:md.nineninenine.TransportFiltersTests@37858383]" started-at="2020-12-22T00:03:38 EET" name="firstRuLangFiltersTest" finished-at="2020-12-22T00:05:52 EET" duration-ms="133894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstRuLangFiltersTest -->
+        <test-method signature="secondRoLangFiltersTest()[pri:0, instance:md.nineninenine.TransportFiltersTests@37858383]" started-at="2020-12-22T00:05:52 EET" name="secondRoLangFiltersTest" finished-at="2020-12-22T00:08:07 EET" duration-ms="134866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondRoLangFiltersTest -->
+        <test-method signature="secondRuLangFiltersTest()[pri:0, instance:md.nineninenine.TransportFiltersTests@37858383]" started-at="2020-12-22T00:08:07 EET" name="secondRuLangFiltersTest" finished-at="2020-12-22T00:10:21 EET" duration-ms="133623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondRuLangFiltersTest -->
+        <test-method signature="thirdRoLangFiltersTest()[pri:0, instance:md.nineninenine.TransportFiltersTests@37858383]" started-at="2020-12-22T00:10:21 EET" name="thirdRoLangFiltersTest" finished-at="2020-12-22T00:12:54 EET" duration-ms="152862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdRoLangFiltersTest -->
+        <test-method signature="thirdRuLangFiltersTest()[pri:0, instance:md.nineninenine.TransportFiltersTests@37858383]" started-at="2020-12-22T00:12:54 EET" name="thirdRuLangFiltersTest" finished-at="2020-12-22T00:15:44 EET" duration-ms="170457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdRuLangFiltersTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:md.nineninenine.TransportFiltersTests@37858383]" started-at="2020-12-22T00:15:44 EET" name="closeBrowser" finished-at="2020-12-22T00:15:45 EET" duration-ms="1237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- md.nineninenine.TransportFiltersTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

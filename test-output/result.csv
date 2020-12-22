@@ -1,0 +1,9 @@
+NAME,STATUS
+setUp,PASS
+firstRoLangFiltersTest,PASS
+firstRuLangFiltersTest,PASS
+secondRoLangFiltersTest,PASS
+secondRuLangFiltersTest,PASS
+thirdRoLangFiltersTest,PASS
+thirdRuLangFiltersTest,PASS
+closeBrowser,PASS
